@@ -20,6 +20,7 @@ let menuItem = {
     menuItem.calories = `560 calories`;
     // 4
     delete menuItem.nickName
+    // The Nickname seemed okay to me ¯\_(ツ)_/¯
     // 5
     menuItem.ingredients.push("Lemon Juice")
 
